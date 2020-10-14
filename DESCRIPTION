@@ -1,6 +1,6 @@
 Package: ramcmc
 Title: Robust Adaptive Metropolis Algorithm
-Version: 0.1.0-1
+Version: 0.1.0-1.1
 Date: 2018-05-29
 Author: Jouni Helske
 Maintainer: Jouni Helske <jouni.helske@iki.fi>
@@ -17,6 +17,6 @@ LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2018-05-29 09:01:13 UTC; jouhe21
+Packaged: 2020-10-14 15:49:16 UTC; hornik
 Repository: CRAN
-Date/Publication: 2018-05-29 10:38:05 UTC
+Date/Publication: 2020-10-14 16:34:49 UTC
